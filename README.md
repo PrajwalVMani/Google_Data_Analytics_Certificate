@@ -6,7 +6,7 @@ Automatidata is fictional data counsulting firm. A client (New York City Taxi an
 ## 2) Scenario
 As a junior data analyst, you have been tasked to explore the dataset and to perform some Exploratory data analysis to get a general understanding of what taxi ridership looks like. Aditionally, the management team has asked for vizualization. 
 
-## 3) Prerequisits
+## 3) Prerequisites
 1) Python
 2) Jupyter Notebook
 3) Matplotlib
